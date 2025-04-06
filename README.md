@@ -5,7 +5,7 @@ it because I was bored)
 
 ## How to use
 1. Install Python [here](https://www.python.org/downloads/) if you haven't
-2. Install pip [here](https://pip.pypa.io/en/stable/installation/) if you also haven't
+2. Learn how to install pip [here](https://pip.pypa.io/en/stable/installation/) and install it if you also haven't
 3. Download the script and requirements.txt
 4. Run this command in the terminal:
    pip install -r requirements.txt
