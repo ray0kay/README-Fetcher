@@ -20,4 +20,4 @@ are images in the README, False if there aren't. If you do not specify
 it, it defaults to false.
 
 Example on Windows:
-[Image of Windows Powershell with the command about to be run](https://i.imgur.com/jWej43T.png)
+![Image of Windows Powershell with the command about to be run](https://i.imgur.com/jWej43T.png)
