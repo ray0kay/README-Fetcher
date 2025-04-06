@@ -17,7 +17,7 @@ it because I was bored)
 The first argument (required) is the README url. The second argument
 (optional), is True or False (capital first letter). True if there
 are images in the README, False if there aren't. If you do not specify
-it, it defaults to false.
+it, it defaults to False.
 
 Example on Windows:
 
